@@ -19,7 +19,7 @@ This repo contains [seeds](https://docs.getdbt.com/docs/building-a-dbt-project/s
 
 The raw data consists of customers, orders, and payments, with the following entity-relationship diagram:
 
-![Jaffle Shop ERD](/etc/jaffle_shop_erd.png)
+![Jaffle Shop ERD](https://github.com/dbt-labs/jaffle_shop/blob/main/etc/jaffle_shop_erd.png?raw=true)
 
 
 ### Running this project
